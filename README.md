@@ -2,11 +2,7 @@
 
 This repository contains materials for the Infrastructure as Code - Building Azure infrastructure using Terraform and Terraform Enterprise event series. This includes attendees challenge guides, slides, and source code.
 
-Workshop Locations:
 
-- Wednesday April 24th, 2019 [Nashville, TN](http://www.cvent.com/d/l6qs97)
-- Wednesday May 14th, 2019 [Columbus, OH](http://www.cvent.com/d/86qcx5)
-- Wednesday May 21st, 2019 [New York, NY](http://www.cvent.com/d/06qw2x)
 
 ## Surveys
 
